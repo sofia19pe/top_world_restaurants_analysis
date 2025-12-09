@@ -14,5 +14,5 @@
 Файл с кодом: [Открыть Juputer Notebook](https://github.com/sofia19pe/top_world_restaurants_analysis/blob/main/Untitled_%D1%81%D0%BE%D1%84%D0%B8%D1%8F.ipynb)**
 
 График №1. 
-![График показывает в каких странах находится наибольшее число топовых ресторанов.](images/grafik-1.png)
+![График показывает в каких странах находится наибольшее число топовых ресторанов.](images/grafik-1.png.png)
 
