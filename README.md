@@ -11,4 +11,5 @@
 6)Как количество типов кухни влияет на рейтинг?
 7)Как распределяются рейтинги ресторанов?
 # 3. Графики и код
-Файл с кодом: 
+Файл с кодом: [Открыть Juputer Notebook](https://github.com/sofia19pe/top_world_restaurants_analysis/blob/main/Untitled_%D1%81%D0%BE%D1%84%D0%B8%D1%8F.ipynb)**
+
